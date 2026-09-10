@@ -1,9 +1,7 @@
-name: Update OpenCADStudio download badges
+name: Update OpenCADStudio download growth
 
 on:
   schedule:
-    # GitHub Actions supports scheduled workflows at a minimum interval of 5 minutes.
-    # Offset by 2 minutes to avoid the busiest minute of the hour.
     - cron: "2/5 * * * *"
   workflow_dispatch:
 
@@ -11,11 +9,11 @@ permissions:
   contents: write
 
 concurrency:
-  group: download-stats
+  group: opencadstudio-download-growth
   cancel-in-progress: false
 
 jobs:
-  update-download-stats:
+  update:
     runs-on: ubuntu-latest
 
     env:
@@ -23,13 +21,15 @@ jobs:
       TARGET_TIMEZONE: Europe/Amsterdam
 
     steps:
-      - name: Checkout statistics repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Update download statistics
+      - name: Update download statistics and graphs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 scripts/update_download_stats.py
 
-      - name: Commit statistics
+      - name: Commit updated statistics
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -41,5 +41,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "chore: update download statistics"
+          git commit -m "chore: update download growth"
           git push

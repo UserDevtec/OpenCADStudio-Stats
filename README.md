@@ -1,18 +1,24 @@
-# OpenCADStudio download badges
+# OpenCADStudio realtime download growth
 
-This small GitHub Actions setup tracks GitHub Release downloads for:
+Tracks GitHub Release asset downloads for:
 
 `HakanSeven12/OpenCADStudio`
 
-It stores snapshots in your own repository and generates Shields.io endpoint files.
+The workflow runs every 5 minutes and builds a growing cumulative line graph.
 
-## Files
+## Generated graphs
 
 ```text
-.github/workflows/update-download-stats.yml
-scripts/update_download_stats.py
-stats/download-history.json
+stats/download-growth-24h.svg
+stats/download-growth-7d.svg
+stats/download-growth-30d.svg
+```
+
+It also generates:
+
+```text
 stats/downloads.json
+stats/download-history.json
 stats/downloads-today.json
 stats/downloads-hour.json
 stats/downloads-week.json
@@ -22,33 +28,47 @@ stats/downloads-total.json
 
 ## Install
 
-Copy the contents of this package into the root of your own GitHub repository and push it.
+Upload all files to the root of your own GitHub repository.
 
-Then open:
-
-**GitHub > Actions > Update OpenCADStudio download badges > Run workflow**
-
-After the first run, the `stats` files will be created/updated automatically.
-
-The workflow also runs every 5 minutes.
-
-## Important repository setting
-
-The workflow needs permission to commit updated statistics.
-
-Open:
+Then go to:
 
 **Settings > Actions > General > Workflow permissions**
 
-Select:
+Choose:
 
 **Read and write permissions**
 
-Then save.
+Save it.
 
-## README badges
+Then run:
 
-Replace `YOUR_GITHUB_USERNAME/YOUR_REPOSITORY` below with the repository where you installed these files.
+**Actions > Update OpenCADStudio download growth > Run workflow**
+
+The first execution is the baseline. After the next measurements, the line begins to grow.
+
+## Put the line graph in your README
+
+Replace `YOUR_GITHUB_USERNAME` and `YOUR_REPOSITORY`.
+
+### Last 24 hours
+
+```md
+![OpenCADStudio download growth](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/stats/download-growth-24h.svg)
+```
+
+### Last 7 days
+
+```md
+![OpenCADStudio 7 day download growth](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/stats/download-growth-7d.svg)
+```
+
+### Last 30 days
+
+```md
+![OpenCADStudio 30 day download growth](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/stats/download-growth-30d.svg)
+```
+
+## Badges
 
 ### Downloads today
 
@@ -80,44 +100,24 @@ Replace `YOUR_GITHUB_USERNAME/YOUR_REPOSITORY` below with the repository where y
 ![Total downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/stats/downloads-total.json)
 ```
 
-## Example
+## Refresh rate
 
-After the Action has collected data for a while you can show badges like:
+The workflow targets one measurement every 5 minutes.
 
-```text
-downloads today | 1.2k
-downloads last hour | 83
-downloads last 7 days | 8.7k
-latest release downloads | 11.6k
-total downloads | 85.3k
-```
+The history file keeps the last 30 days, which is about 8,640 measurements at that interval.
 
-## Change the tracked repository
+## Change repository
 
 Edit:
 
-`.github/workflows/update-download-stats.yml`
+```text
+.github/workflows/update-download-stats.yml
+```
 
-Change:
+and change:
 
 ```yaml
 env:
   TARGET_REPO: HakanSeven12/OpenCADStudio
   TARGET_TIMEZONE: Europe/Amsterdam
 ```
-
-For example:
-
-```yaml
-env:
-  TARGET_REPO: owner/repository
-  TARGET_TIMEZONE: Europe/Amsterdam
-```
-
-## Notes
-
-GitHub Actions scheduled jobs are not guaranteed to start at the exact scheduled second. GitHub may delay scheduled workflows during busy periods.
-
-The first run creates a baseline. Therefore "today", "last hour", and "last 7 days" become useful only after historical measurements have been collected.
-
-GitHub Release asset download counters are cumulative. This workflow calculates period statistics by comparing the current counter with earlier snapshots.
