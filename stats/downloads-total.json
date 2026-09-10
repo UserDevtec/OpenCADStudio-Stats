@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "label": "downloads",
-  "message": "collecting data",
-  "color": "lightgrey"
+  "label": "total downloads",
+  "message": "27.4k",
+  "color": "blue"
 }
