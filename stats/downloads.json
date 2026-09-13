@@ -1,40 +1,40 @@
 {
   "repository": "HakanSeven12/OpenCADStudio",
   "timezone": "Europe/Amsterdam",
-  "updated": "2026-09-12T22:36:42Z",
-  "total_downloads": 33538,
-  "downloads_today": 178,
-  "downloads_last_hour": 178,
-  "downloads_last_7_days": 6143,
+  "updated": "2026-09-13T00:16:17Z",
+  "total_downloads": 33682,
+  "downloads_today": 322,
+  "downloads_last_hour": 144,
+  "downloads_last_7_days": 6287,
   "latest_release": {
     "tag": "v2026.36",
     "name": "2026.36",
     "published_at": "2026-09-06T12:27:44Z",
-    "downloads": 17723,
+    "downloads": 17866,
     "assets": [
       {
         "name": "OpenCADStudio-v2026.36-linux-x86_64.AppImage",
-        "downloads": 3955,
+        "downloads": 3992,
         "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.36/OpenCADStudio-v2026.36-linux-x86_64.AppImage"
       },
       {
         "name": "OpenCADStudio-v2026.36-linux-x86_64.snap",
-        "downloads": 536,
+        "downloads": 540,
         "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.36/OpenCADStudio-v2026.36-linux-x86_64.snap"
       },
       {
         "name": "OpenCADStudio-v2026.36-macos-arm64.dmg",
-        "downloads": 1277,
+        "downloads": 1288,
         "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.36/OpenCADStudio-v2026.36-macos-arm64.dmg"
       },
       {
         "name": "OpenCADStudio-v2026.36-windows-x86_64-installer.msi",
-        "downloads": 6864,
+        "downloads": 6922,
         "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.36/OpenCADStudio-v2026.36-windows-x86_64-installer.msi"
       },
       {
         "name": "OpenCADStudio-v2026.36-windows-x86_64-portable.exe",
-        "downloads": 5091,
+        "downloads": 5124,
         "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.36/OpenCADStudio-v2026.36-windows-x86_64-portable.exe"
       }
     ]
