@@ -11,16 +11,16 @@
 <text x="48" y="48" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="27" font-weight="700">Download growth, last 24 hours</text>
 <text x="48" y="79" fill="#8b949e" font-family="Arial, sans-serif" font-size="16">HakanSeven12/OpenCADStudio cumulative GitHub Release asset downloads</text>
 
-<text x="1152" y="46" text-anchor="end" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="25" font-weight="700">56k</text>
+<text x="1152" y="46" text-anchor="end" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="25" font-weight="700">56.3k</text>
 <text x="1152" y="76" text-anchor="end" fill="#3fb950" font-family="Arial, sans-serif" font-size="17" font-weight="700">+1.2k growth</text>
 
 <line x1="86" y1="112.00" x2="1166" y2="112.00" stroke="#30363d" stroke-width="1"/><line x1="86" y1="177.00" x2="1166" y2="177.00" stroke="#30363d" stroke-width="1"/><line x1="86" y1="242.00" x2="1166" y2="242.00" stroke="#30363d" stroke-width="1"/><line x1="86" y1="307.00" x2="1166" y2="307.00" stroke="#30363d" stroke-width="1"/><line x1="86" y1="372.00" x2="1166" y2="372.00" stroke="#30363d" stroke-width="1"/>
-<text x="72" y="117.00" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">56,107</text><text x="72" y="182.00" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">55,824</text><text x="72" y="247.00" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">55,541</text><text x="72" y="312.00" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">55,258</text><text x="72" y="377.00" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">54,975</text>
+<text x="72" y="117.00" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">56,451</text><text x="72" y="182.00" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">56,132</text><text x="72" y="247.00" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">55,812</text><text x="72" y="312.00" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">55,492</text><text x="72" y="377.00" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">55,173</text>
 
-<path d="M 86.00 346.96 L 267.98 298.27 L 403.92 270.94 L 566.52 242.46 L 866.74 195.37 L 1166.00 137.04 L 1166.00 372.00 L 86.00 372.00 Z" fill="url(#area)"/>
-<path d="M 86.00 346.96 L 267.98 298.27 L 403.92 270.94 L 566.52 242.46 L 866.74 195.37 L 1166.00 137.04" fill="none" stroke="#58a6ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="1166.00" cy="137.04" r="6" fill="#58a6ff"/>
-<circle cx="1166.00" cy="137.04" r="11" fill="none" stroke="#58a6ff" stroke-opacity="0.28" stroke-width="5"/>
+<path d="M 86.00 346.98 L 215.36 322.77 L 370.10 297.54 L 655.81 255.83 L 940.59 204.16 L 1166.00 137.02 L 1166.00 372.00 L 86.00 372.00 Z" fill="url(#area)"/>
+<path d="M 86.00 346.98 L 215.36 322.77 L 370.10 297.54 L 655.81 255.83 L 940.59 204.16 L 1166.00 137.02" fill="none" stroke="#58a6ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1166.00" cy="137.02" r="6" fill="#58a6ff"/>
+<circle cx="1166.00" cy="137.02" r="11" fill="none" stroke="#58a6ff" stroke-opacity="0.28" stroke-width="5"/>
 
-<text x="86.00" y="408" text-anchor="start" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">24 Sep 19:59</text><text x="626.00" y="408" text-anchor="middle" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">25 Sep 06:03</text><text x="1166.00" y="408" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">25 Sep 16:07</text>
+<text x="86.00" y="408" text-anchor="start" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">24 Sep 23:23</text><text x="626.00" y="408" text-anchor="middle" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">25 Sep 09:57</text><text x="1166.00" y="408" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">25 Sep 20:32</text>
 </svg>
