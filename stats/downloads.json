@@ -1,40 +1,45 @@
 {
   "repository": "HakanSeven12/OpenCADStudio",
   "timezone": "Europe/Amsterdam",
-  "updated": "2026-10-19T06:07:22Z",
-  "total_downloads": 104428,
-  "downloads_today": 979,
-  "downloads_last_hour": 527,
-  "downloads_last_7_days": 21932,
+  "updated": "2026-10-19T13:00:22Z",
+  "total_downloads": 105612,
+  "downloads_today": 2163,
+  "downloads_last_hour": 1184,
+  "downloads_last_7_days": 22311,
   "latest_release": {
     "tag": "v2026.42",
     "name": "2026.42",
     "published_at": "2026-10-18T15:38:21Z",
-    "downloads": 1656,
+    "downloads": 2800,
     "assets": [
       {
         "name": "OpenCADStudio-v2026.42-linux-x86_64.AppImage",
-        "downloads": 423,
+        "downloads": 606,
         "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.42/OpenCADStudio-v2026.42-linux-x86_64.AppImage"
       },
       {
         "name": "OpenCADStudio-v2026.42-linux-x86_64.snap",
-        "downloads": 56,
+        "downloads": 69,
         "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.42/OpenCADStudio-v2026.42-linux-x86_64.snap"
       },
       {
+        "name": "OpenCADStudio-v2026.42-macos-arm64.dmg",
+        "downloads": 51,
+        "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.42/OpenCADStudio-v2026.42-macos-arm64.dmg"
+      },
+      {
         "name": "OpenCADStudio-v2026.42-web.zip",
-        "downloads": 63,
+        "downloads": 94,
         "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.42/OpenCADStudio-v2026.42-web.zip"
       },
       {
         "name": "OpenCADStudio-v2026.42-windows-x86_64-installer.msi",
-        "downloads": 710,
+        "downloads": 1220,
         "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.42/OpenCADStudio-v2026.42-windows-x86_64-installer.msi"
       },
       {
         "name": "OpenCADStudio-v2026.42-windows-x86_64-portable.exe",
-        "downloads": 404,
+        "downloads": 760,
         "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.42/OpenCADStudio-v2026.42-windows-x86_64-portable.exe"
       }
     ]
