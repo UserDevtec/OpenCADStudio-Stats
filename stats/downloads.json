@@ -1,16 +1,47 @@
 {
   "repository": "HakanSeven12/OpenCADStudio",
   "timezone": "Europe/Amsterdam",
-  "updated": "2026-10-25T16:04:45Z",
-  "total_downloads": 122189,
-  "downloads_today": 1704,
-  "downloads_last_hour": 331,
-  "downloads_last_7_days": 19734,
+  "updated": "2026-10-25T18:56:56Z",
+  "total_downloads": 122690,
+  "downloads_today": 2205,
+  "downloads_last_hour": 501,
+  "downloads_last_7_days": 19549,
   "latest_release": {
     "tag": "v2026.43",
     "name": "2026.43",
     "published_at": "2026-10-25T15:50:33Z",
-    "downloads": 0,
-    "assets": []
+    "downloads": 477,
+    "assets": [
+      {
+        "name": "OpenCADStudio-v2026.43-linux-x86_64.AppImage",
+        "downloads": 135,
+        "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.43/OpenCADStudio-v2026.43-linux-x86_64.AppImage"
+      },
+      {
+        "name": "OpenCADStudio-v2026.43-linux-x86_64.snap",
+        "downloads": 12,
+        "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.43/OpenCADStudio-v2026.43-linux-x86_64.snap"
+      },
+      {
+        "name": "OpenCADStudio-v2026.43-macos-arm64.dmg",
+        "downloads": 22,
+        "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.43/OpenCADStudio-v2026.43-macos-arm64.dmg"
+      },
+      {
+        "name": "OpenCADStudio-v2026.43-web.zip",
+        "downloads": 7,
+        "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.43/OpenCADStudio-v2026.43-web.zip"
+      },
+      {
+        "name": "OpenCADStudio-v2026.43-windows-x86_64-installer.msi",
+        "downloads": 212,
+        "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.43/OpenCADStudio-v2026.43-windows-x86_64-installer.msi"
+      },
+      {
+        "name": "OpenCADStudio-v2026.43-windows-x86_64-portable.exe",
+        "downloads": 89,
+        "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.43/OpenCADStudio-v2026.43-windows-x86_64-portable.exe"
+      }
+    ]
   }
 }
