@@ -11,16 +11,16 @@
 <text x="48" y="48" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="27" font-weight="700">Download growth, last 24 hours</text>
 <text x="48" y="79" fill="#8b949e" font-family="Arial, sans-serif" font-size="16">HakanSeven12/OpenCADStudio cumulative GitHub Release asset downloads</text>
 
-<text x="1152" y="46" text-anchor="end" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="25" font-weight="700">139.2k</text>
-<text x="1152" y="76" text-anchor="end" fill="#3fb950" font-family="Arial, sans-serif" font-size="17" font-weight="700">+1.7k growth</text>
+<text x="1152" y="46" text-anchor="end" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="25" font-weight="700">139.4k</text>
+<text x="1152" y="76" text-anchor="end" fill="#3fb950" font-family="Arial, sans-serif" font-size="17" font-weight="700">+1.5k growth</text>
 
 <line x1="86" y1="112.00" x2="1166" y2="112.00" stroke="#30363d" stroke-width="1"/><line x1="86" y1="177.00" x2="1166" y2="177.00" stroke="#30363d" stroke-width="1"/><line x1="86" y1="242.00" x2="1166" y2="242.00" stroke="#30363d" stroke-width="1"/><line x1="86" y1="307.00" x2="1166" y2="307.00" stroke="#30363d" stroke-width="1"/><line x1="86" y1="372.00" x2="1166" y2="372.00" stroke="#30363d" stroke-width="1"/>
-<text x="72" y="117.00" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">139,360</text><text x="72" y="182.00" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">138,931</text><text x="72" y="247.00" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">138,502</text><text x="72" y="312.00" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">138,072</text><text x="72" y="377.00" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">137,643</text>
+<text x="72" y="117.00" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">139,518</text><text x="72" y="182.00" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">139,096</text><text x="72" y="247.00" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">138,674</text><text x="72" y="312.00" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">138,251</text><text x="72" y="377.00" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">137,829</text>
 
-<path d="M 86.00 346.86 L 241.66 319.15 L 516.33 281.45 L 815.62 221.03 L 1013.25 171.51 L 1166.00 137.14 L 1166.00 372.00 L 86.00 372.00 Z" fill="url(#area)"/>
-<path d="M 86.00 346.86 L 241.66 319.15 L 516.33 281.45 L 815.62 221.03 L 1013.25 171.51 L 1166.00 137.14" fill="none" stroke="#58a6ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="1166.00" cy="137.14" r="6" fill="#58a6ff"/>
-<circle cx="1166.00" cy="137.14" r="11" fill="none" stroke="#58a6ff" stroke-opacity="0.28" stroke-width="5"/>
+<path d="M 86.00 346.91 L 365.06 308.58 L 669.14 247.16 L 869.92 196.82 L 1025.11 161.88 L 1166.00 137.09 L 1166.00 372.00 L 86.00 372.00 Z" fill="url(#area)"/>
+<path d="M 86.00 346.91 L 365.06 308.58 L 669.14 247.16 L 869.92 196.82 L 1025.11 161.88 L 1166.00 137.09" fill="none" stroke="#58a6ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1166.00" cy="137.09" r="6" fill="#58a6ff"/>
+<circle cx="1166.00" cy="137.09" r="11" fill="none" stroke="#58a6ff" stroke-opacity="0.28" stroke-width="5"/>
 
-<text x="86.00" y="408" text-anchor="start" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">30 Oct 23:26</text><text x="626.00" y="408" text-anchor="middle" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">31 Oct 10:49</text><text x="1166.00" y="408" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">31 Oct 22:11</text>
+<text x="86.00" y="408" text-anchor="start" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">31 Oct 02:43</text><text x="626.00" y="408" text-anchor="middle" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">31 Oct 13:55</text><text x="1166.00" y="408" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">01 Nov 01:07</text>
 </svg>
