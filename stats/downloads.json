@@ -1,75 +1,75 @@
 {
   "repository": "HakanSeven12/OpenCADStudio",
   "timezone": "Europe/Amsterdam",
-  "updated": "2026-11-10T18:01:49Z",
-  "total_downloads": 169012,
-  "downloads_today": 3364,
-  "downloads_last_hour": 1402,
-  "downloads_last_7_days": 23139,
+  "updated": "2026-11-10T23:09:19Z",
+  "total_downloads": 169865,
+  "downloads_today": 853,
+  "downloads_last_hour": 853,
+  "downloads_last_7_days": 22846,
   "latest_release": {
     "tag": "v2026.45",
     "name": "2026.45",
     "published_at": "2026-11-08T17:48:08Z",
-    "downloads": 8353,
+    "downloads": 9138,
     "assets": [
       {
         "name": "OpenCADStudio-v2026.45-linux-aarch64.AppImage",
-        "downloads": 181,
+        "downloads": 201,
         "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.45/OpenCADStudio-v2026.45-linux-aarch64.AppImage"
       },
       {
         "name": "OpenCADStudio-v2026.45-linux-aarch64.AppImage.zsync",
-        "downloads": 40,
+        "downloads": 47,
         "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.45/OpenCADStudio-v2026.45-linux-aarch64.AppImage.zsync"
       },
       {
         "name": "OpenCADStudio-v2026.45-linux-x86_64.AppImage",
-        "downloads": 1262,
+        "downloads": 1359,
         "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.45/OpenCADStudio-v2026.45-linux-x86_64.AppImage"
       },
       {
         "name": "OpenCADStudio-v2026.45-linux-x86_64.AppImage.zsync",
-        "downloads": 316,
+        "downloads": 347,
         "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.45/OpenCADStudio-v2026.45-linux-x86_64.AppImage.zsync"
       },
       {
         "name": "OpenCADStudio-v2026.45-linux-x86_64.snap",
-        "downloads": 133,
+        "downloads": 152,
         "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.45/OpenCADStudio-v2026.45-linux-x86_64.snap"
       },
       {
         "name": "OpenCADStudio-v2026.45-macos-arm64.dmg",
-        "downloads": 460,
+        "downloads": 484,
         "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.45/OpenCADStudio-v2026.45-macos-arm64.dmg"
       },
       {
         "name": "OpenCADStudio-v2026.45-macos-x86_64.dmg",
-        "downloads": 101,
+        "downloads": 112,
         "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.45/OpenCADStudio-v2026.45-macos-x86_64.dmg"
       },
       {
         "name": "OpenCADStudio-v2026.45-web.zip",
-        "downloads": 285,
+        "downloads": 383,
         "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.45/OpenCADStudio-v2026.45-web.zip"
       },
       {
         "name": "OpenCADStudio-v2026.45-windows-arm64-installer.msi",
-        "downloads": 627,
+        "downloads": 685,
         "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.45/OpenCADStudio-v2026.45-windows-arm64-installer.msi"
       },
       {
         "name": "OpenCADStudio-v2026.45-windows-arm64-portable.exe",
-        "downloads": 441,
+        "downloads": 473,
         "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.45/OpenCADStudio-v2026.45-windows-arm64-portable.exe"
       },
       {
         "name": "OpenCADStudio-v2026.45-windows-x86_64-installer.msi",
-        "downloads": 3218,
+        "downloads": 3449,
         "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.45/OpenCADStudio-v2026.45-windows-x86_64-installer.msi"
       },
       {
         "name": "OpenCADStudio-v2026.45-windows-x86_64-portable.exe",
-        "downloads": 1289,
+        "downloads": 1446,
         "url": "https://github.com/HakanSeven12/OpenCADStudio/releases/download/v2026.45/OpenCADStudio-v2026.45-windows-x86_64-portable.exe"
       }
     ]
