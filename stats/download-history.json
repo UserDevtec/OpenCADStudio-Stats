@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-10-16T19:48:55Z",
-    "total_downloads": 99281,
-    "latest_release": "v2026.41",
-    "latest_release_downloads": 17151
-  },
-  {
     "timestamp": "2026-10-16T22:13:44Z",
     "total_downloads": 99516,
     "latest_release": "v2026.41",
@@ -898,5 +892,11 @@
     "total_downloads": 181910,
     "latest_release": "v2026.45",
     "latest_release_downloads": 20451
+  },
+  {
+    "timestamp": "2026-11-15T21:58:46Z",
+    "total_downloads": 182521,
+    "latest_release": "v2026.46",
+    "latest_release_downloads": 442
   }
 ]
