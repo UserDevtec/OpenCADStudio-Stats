@@ -1,17 +1,5 @@
 [
   {
-    "timestamp": "2026-10-18T04:38:32Z",
-    "total_downloads": 101812,
-    "latest_release": "v2026.41",
-    "latest_release_downloads": 19602
-  },
-  {
-    "timestamp": "2026-10-18T09:03:54Z",
-    "total_downloads": 102087,
-    "latest_release": "v2026.41",
-    "latest_release_downloads": 19853
-  },
-  {
     "timestamp": "2026-10-18T13:11:08Z",
     "total_downloads": 102455,
     "latest_release": "v2026.41",
@@ -862,5 +850,11 @@
     "total_downloads": 187511,
     "latest_release": "v2026.46",
     "latest_release_downloads": 5204
+  },
+  {
+    "timestamp": "2026-11-17T10:39:10Z",
+    "total_downloads": 188731,
+    "latest_release": "v2026.46",
+    "latest_release_downloads": 6372
   }
 ]
